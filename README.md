@@ -1,16 +1,16 @@
 # Peaku Jobs clone  -  React + Vite 
-### Project developed within the Peaku Bootcamp 2024 - Cohort11 🚀
+### Project developed within the Peaku Bootcamp 2024 - Cohort12 🚀
 
 
-# Group 04 collaborators:
-- Raquel Sofia Neira
+# Group 01 collaborators:
+- Juliana Medina
 - Edwin Rojas
-- Ruben Duarte
+
 
 
 💻 Experience in ReactJs using Vite
 
-  ![peakuClone](https://github.com/SofiaNLoop/ReactProject/assets/107430911/5ec7e701-1d2e-4841-9b8d-ea2a2c8d7282)
+  ![peakuClone]()
 
   
 # Funcionalidades
@@ -22,7 +22,7 @@
 - Cuenta con sus respectivos Hover en el SideBar, el NavBar y en las tarjetas
 
 
-  ![peakuClone2](https://github.com/SofiaNLoop/ReactProject/assets/107430911/09459b19-73f8-433e-a352-b3b5793dc0ad)
+  ![peakuClone2]()
 
 
 
