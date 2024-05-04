@@ -10,7 +10,7 @@
 
 💻 Experience in ReactJs using Vite
 
-  ![peakuClone]()
+ 
 
   
 # Funcionalidades
@@ -22,7 +22,7 @@
 - Cuenta con sus respectivos Hover en el SideBar, el NavBar y en las tarjetas
 
 
-  ![peakuClone2]()
+
 
 
 
